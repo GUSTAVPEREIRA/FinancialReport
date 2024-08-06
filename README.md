@@ -5,8 +5,8 @@
 The answer is simple and angry about all platforms that I stay using
 "I'm not talking about any platform, of course". 
 But propose is simple, it's search (Extended National Consumer Price Index, National Treasure
-and Real Estate Investments, Special System for Settlement and Custody) without I need to looking for hundreds of clicks passing about 7 or more endpoints like 
-bank some banks that'd colors red, yellow, and orange.
+and Real Estate Investments, Special System for Settlement and Custody) without I need to looking for hundreds of 
+clicks passing about 7 or more endpoints like some banks that'd colors red, yellow, and orange.
 
 ### But it's enough crying and let's explain my project initial structure
 
