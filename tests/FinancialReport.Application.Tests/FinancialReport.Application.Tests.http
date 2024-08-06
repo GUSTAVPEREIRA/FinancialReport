@@ -1,6 +1,0 @@
-@FinancialReport.Application.Tests_HostAddress = http://localhost:5048
-
-GET {{FinancialReport.Application.Tests_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
