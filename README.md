@@ -15,5 +15,6 @@ all investments that you could be following clearly speaking about Real state in
 For Extended National Consumer Price Index and Special System 
 for Settlement and Custody only following the day value and updated regularly all days
 
+These workflow can show how the process REIT work(this is similar to National Treasure too):
 
 ![FinancialReportREITWorkFlow.drawio.png](https://github.com/GUSTAVPEREIRA/FinancialReport/blob/main/FinancialReportREITWorkFlow.drawio.png)
