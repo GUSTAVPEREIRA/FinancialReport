@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialReport.Application
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialReport.Infrastructure.Tests", "tests\FinancialReport.Infrastructure.Tests\FinancialReport.Infrastructure.Tests.csproj", "{D737028C-540E-4FCA-AFBA-0E16B6B76B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialReport.TimeScheduler.Worker", "src\Worker\FinancialReport.TimeScheduler.Worker\FinancialReport.TimeScheduler.Worker.csproj", "{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,7 @@ Global
 		{465E630E-67C3-48F8-A5CC-56A2C807252A} = {7FE2A125-F75A-4132-B380-EA1584B5CA25}
 		{C43FFA03-9284-4755-8173-2F1F48CA1FE6} = {7FE2A125-F75A-4132-B380-EA1584B5CA25}
 		{D737028C-540E-4FCA-AFBA-0E16B6B76B93} = {7FE2A125-F75A-4132-B380-EA1584B5CA25}
+		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3} = {4090F9C3-219F-4908-A0FA-9C5A01B73824}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7017DB15-9D82-4B8F-AE91-15DD1216E86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -107,5 +110,9 @@ Global
 		{D737028C-540E-4FCA-AFBA-0E16B6B76B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D737028C-540E-4FCA-AFBA-0E16B6B76B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D737028C-540E-4FCA-AFBA-0E16B6B76B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
