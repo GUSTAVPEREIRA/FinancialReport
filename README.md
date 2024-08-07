@@ -16,8 +16,4 @@ For Extended National Consumer Price Index and Special System
 for Settlement and Custody only following the day value and updated regularly all days
 
 
-
-
-
-
-
+![FinancialReportREITWorkFlow.drawio.png](https://github.com/GUSTAVPEREIRA/FinancialReport/blob/main/FinancialReportREITWorkFlow.drawio.png)
