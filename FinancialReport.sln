@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialReport.Infrastruct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialReport.TimeScheduler.Worker", "src\Worker\FinancialReport.TimeScheduler.Worker\FinancialReport.TimeScheduler.Worker.csproj", "{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialReport.Migrator.Api", "src\WebApi\FinancialReport.Migrator.Api\FinancialReport.Migrator.Api.csproj", "{9C523534-4C29-44BB-BD3B-3D36D0F08B3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -64,6 +66,7 @@ Global
 		{C43FFA03-9284-4755-8173-2F1F48CA1FE6} = {7FE2A125-F75A-4132-B380-EA1584B5CA25}
 		{D737028C-540E-4FCA-AFBA-0E16B6B76B93} = {7FE2A125-F75A-4132-B380-EA1584B5CA25}
 		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3} = {4090F9C3-219F-4908-A0FA-9C5A01B73824}
+		{9C523534-4C29-44BB-BD3B-3D36D0F08B3E} = {E92146CA-A381-4CB3-82B1-4F13182448F2}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7017DB15-9D82-4B8F-AE91-15DD1216E86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -114,5 +117,9 @@ Global
 		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E54AC45C-CA39-4BF2-BB2E-7B53010EE9E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C523534-4C29-44BB-BD3B-3D36D0F08B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C523534-4C29-44BB-BD3B-3D36D0F08B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C523534-4C29-44BB-BD3B-3D36D0F08B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C523534-4C29-44BB-BD3B-3D36D0F08B3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
