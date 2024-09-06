@@ -8,6 +8,7 @@ public static class MigrationConfiguration
     {
         return
         [
+            typeof(CreateUserTable).Assembly,
             typeof(CreateScheduleTable).Assembly
         ];
     }
